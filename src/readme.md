@@ -35,7 +35,7 @@ Comparable类：<br/>
 a.语义上不同(接口比抽象类更抽象)。
 b.实现类比接口速度快。
 c.子类可以继承一个父类，但是可以实现多个接口。
-d.抽象方法可以是 `public` `protected` `default`，而接口只能是`public`。
+d.抽象方法可以是 `public` `protected` `default`，而接口只能是`public`。 <br/>
 7. 门面模式/外观模式 `Facade Pattern` <br/>
 定义 为子系统中的一组接口提供一个一致的界面，外观模式定义了一个高层接口，这个接口使得这一子系统更加容易使用。 <br/>
-就像 facadepattern 包下写的一样，想把家里断电，可以一个房间一个房间去关，也可以使用电闸 `ElectricBreak` 去控制。
+就像 facadepattern 包下写的一样，想把家里断电，可以一个房间一个房间去关，也可以使用电闸 `ElectricBreak` 去控制。<br/>
