@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7431fce2-24c1-40c8-940c-1179c154d122" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr07$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr07$Mgr07Holder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr07.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/singleton/Mgr08.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/test/DesignPaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpattern/cn/geoary/design/test/MainTest.class" afterDir="false" />
+    <list default="true" id="7431fce2-24c1-40c8-940c-1179c154d122" name="Default Changelist" comment="外观模式/门面模式">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -217,7 +200,7 @@
       <workItem from="1576156411375" duration="2593000" />
       <workItem from="1576220617943" duration="105000" />
       <workItem from="1576673531338" duration="3632000" />
-      <workItem from="1577192404174" duration="1368000" />
+      <workItem from="1577192404174" duration="1450000" />
     </task>
     <task id="LOCAL-00001" summary="单例模式">
       <created>1575988331177</created>
@@ -289,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577193590959</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="外观模式/门面模式">
+      <created>1577193783863</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577193783864</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,10 +317,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1577192965615" />
-    <state x="378" y="14" key="CommitChangelistDialog2" timestamp="1577193589729">
+    <state x="378" y="14" key="CommitChangelistDialog2" timestamp="1577193800679">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="378" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577193589729" />
+    <state x="378" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577193800679" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1576676782660">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -359,10 +349,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577192613120" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1577193721316">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1577193788511">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577193721316" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577193788511" />
     <state x="564" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576158314900">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
