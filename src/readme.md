@@ -42,3 +42,6 @@ d.抽象方法可以是 `public` `protected` `default`，而接口只能是`publ
 7. 门面模式/外观模式 `Facade Pattern` <br/>
 定义 为子系统中的一组接口提供一个一致的界面，外观模式定义了一个高层接口，这个接口使得这一子系统更加容易使用。 <br/>
 就像 facadepattern 包下写的一样，想把家里断电，可以一个房间一个房间去关，也可以使用电闸 `ElectricBreak` 去控制。<br/>
+#### 中介模式
+8. 中介模式 `mediatorpattern` <br/>
+定义：用一个中介对象来封装一系列的对象交互。中介者使各对象不需要显式地相互引用，从而使其耦合松散，而且可以独立地改变它们之间的交互。(例如：房东`Landlord`与房客`Tenant`不需要直接交流，可以通过中介`MediatorStructure`来进行对话)

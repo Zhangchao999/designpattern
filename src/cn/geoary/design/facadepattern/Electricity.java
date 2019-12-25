@@ -22,6 +22,7 @@ public interface Electricity {
      * 功能描述:
      * 〈断电〉
      *
+     * @param  1
      * @return : void
      * @author : zhangc
      * @date : 2019/12/24 21:04
