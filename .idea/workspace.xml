@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7431fce2-24c1-40c8-940c-1179c154d122" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/geoary/design/decoratorpattern/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/geoary/design/decoratorpattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/geoary/design/decoratorpattern/RedCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/geoary/design/decoratorpattern/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/geoary/design/decoratorpattern/ShapeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/geoary/design/decoratorpattern/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
@@ -208,7 +202,7 @@
       <workItem from="1576673531338" duration="3632000" />
       <workItem from="1577192404174" duration="2076000" />
       <workItem from="1577280080156" duration="1526000" />
-      <workItem from="1577457497368" duration="960000" />
+      <workItem from="1577457497368" duration="1772000" />
     </task>
     <task id="LOCAL-00001" summary="单例模式">
       <created>1575988331177</created>
@@ -301,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577281555253</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="装饰器模式">
+      <created>1577458502234</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577458502234</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +329,8 @@
     <MESSAGE value="单例模式总结" />
     <MESSAGE value="工厂及抽象工厂模式" />
     <MESSAGE value="外观模式/门面模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="外观模式/门面模式" />
+    <MESSAGE value="装饰器模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="装饰器模式" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="79" key="#Project_Structure" timestamp="1575463501814">
@@ -339,10 +341,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1577458113227" />
-    <state x="378" y="14" key="CommitChangelistDialog2" timestamp="1577281554379">
+    <state x="378" y="14" key="CommitChangelistDialog2" timestamp="1577458501386">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="378" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577281554379" />
+    <state x="378" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577458501386" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1577281549581">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -371,10 +373,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577192613120" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1577281568857">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1577458517398">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577281568857" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577458517398" />
     <state x="564" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576158314900">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
