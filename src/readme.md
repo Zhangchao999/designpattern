@@ -51,3 +51,7 @@ d.抽象方法可以是 `public` `protected` `default`，而接口只能是`publ
 `protected`<br/> 
 a. 基类的 protected 成员是包内可见的，并且对子类可见；<br/> 
 b. 若子类与基类不在同一包中，那么在子类中，子类实例可以访问其从基类继承而来的protected方法，而不能访问基类实例的protected方法。
+#### 责任链模式
+10. 责任链模式 `chainpattern`
+定义：顾名思义，责任链模式（Chain of Responsibility Pattern）为请求创建了一个接收者对象的链。这种模式给予请求的类型，对请求的发送者和接收者进行解耦。这种类型的设计模式属于行为型模式。<br/>
+将要处理的形成一个链条(闭环)，去执行。 在`cn.geoary.design.chainpattern.reqresp`包下，模拟了web中对于request及response的过滤形式，即从前往后过滤request从后往前过滤response。
